@@ -120,8 +120,7 @@ Dataset = [Top_100_Banks_2024_by_S&P_Global](https://drive.google.com/drive/fold
 
 ## Buatlah visualisasi dengan mengunakan library python seperti matplotlib, seaborn atau tools lain
 - Visualisasinya
-  
-![Visualisasi](https://github.com/Hash-sd/Project-Data-and-Information-Visualization/blob/main/download.png)
+  ![Visualisasi](https://github.com/Hash-sd/Project-Data-and-Information-Visualization/blob/main/download.png)
 
 
 - Python
