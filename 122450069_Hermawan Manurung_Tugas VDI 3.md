@@ -124,10 +124,8 @@ Dataset = [Top_100_Banks_2024_by_S&P_Global](https://drive.google.com/drive/fold
 ![Visualisasi](https://github.com/Hash-sd/Project-Data-and-Information-Visualization/blob/main/download.png)
 
 
-
-
 - Python
-     ```sh
+     ```py
     import pandas as pd
     import seaborn as sns
     import matplotlib.pyplot as plt
@@ -149,5 +147,3 @@ Dataset = [Top_100_Banks_2024_by_S&P_Global](https://drive.google.com/drive/fold
         plt.text(i, v+1, str(v), ha='center')
     
     plt.show()
-```
-
